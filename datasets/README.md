@@ -1,1 +1,25 @@
-
+# DiForest Datasets
+- **CLUSTER ONE (C1)**
+  - Training Data ➡️ C1_train.csv
+  - Normal Testing Data ➡️ C1_norm_test.csv
+  - Anomaly Testing Data ➡️ C1_ano_test.csv
+- **CLUSTER TWO (C2)**
+  - Training Data ➡️ C2_train.csv
+  - Normal Testing Data ➡️ C2_norm_test.csv
+  - Anomaly Testing Data ➡️ C2_ano_test.csv
+- **SINUSOIDAL (SIN)**
+  - Training Data ➡️ SIN_train.csv
+  - Normal Testing Data ➡️ SIN_norm_test.csv
+  - Anomaly Testing Data ➡️ SIN_ano_test.csv
+- **Car Crash Emulation (ECC)**
+  - Training Data ➡️ ECC_train.csv
+  - Normal Testing Data ➡️ ECC_norm_test.csv
+  - Anomaly Testing Data ➡️ ECC_ano_test.csv
+- **Electromagnetic Disturbances (EMF)**
+  - Training Data ➡️ EMF_train.csv
+  - Normal Testing Data ➡️ EMF_norm_test.csv
+  - Anomaly Testing Data ➡️ EMF_ano_test.csv
+- **Vibration Disturbances (EVI)**
+  - Training Data ➡️ EVI_train.csv
+  - Normal Testing Data ➡️ EVI_norm_test.csv
+  - Anomaly Testing Data ➡️ EVI_ano_test.csv
